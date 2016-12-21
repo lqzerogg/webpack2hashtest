@@ -1,0 +1,10 @@
+node_modules/
+_temp/
+docs/
+build/
+coverage/
+.eslintcache
+/.idea/
+/public
+#template/stats.json
+npm-debug.log

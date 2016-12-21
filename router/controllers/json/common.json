@@ -1,0 +1,76 @@
+{
+  "assets_url": "http://localhost:3100/public/",
+  "static_url": "/",
+  "dev": true,
+  "uInfo": {
+    "isLogin": false,
+    "basic": {
+      "id": 1234567,
+      "name": "Zero12345678",
+      "account": "lqzerogg",
+      "is_email_validated":0,
+      "email": "poorboy19910312@gmail.com",
+      "picture": "http://placeimg.com/100/100/nature"
+    },
+    "relation_ship": 0,
+    "recent_stat": {
+    }
+  },
+  "games": [
+        {
+            "id": "1",
+            "name": "Dota 2",
+            "full_name": "Dota 2",
+            "tag": "Dota2",
+            "key": "dota2",
+            "logo": ""
+        },
+        {
+            "id": "2",
+            "name": "CS:GO",
+            "full_name": "Counter-Strike:Global Object",
+            "tag": "CS:GO",
+            "key": "csgo",
+            "logo": ""
+        },
+        {
+            "id": "3",
+            "full_name": "League Of Legends",
+            "name": "League Of Legends",
+            "tag": "LOL",
+            "key": "lol",
+            "logo": ""
+        },
+        {
+            "id": "4",
+            "full_name": "star craft",
+            "name": "sc2",
+            "tag": "sc2",
+            "key": "sc2",
+            "logo": ""
+        },
+        {
+            "id": "5",
+            "full_name": "Overwatch",
+            "name": "Overwatch",
+            "tag": "Overwatch",
+            "key": "overwatch",
+            "logo": ""
+        },
+        {
+            "id": "6",
+            "full_name": "Hearthstone",
+            "name": "Hearthstone",
+            "tag": "Hearthstone",
+            "key": "hearthstone",
+            "logo": ""
+        }
+  ]
+}
+
+
+
+
+
+
+

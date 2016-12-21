@@ -1,0 +1,10 @@
+{
+  "statics": {
+    "js_vendor": "public/js/vendor.bundle.js",
+    "js_manifest": "public/js/manifest.bundle.js",
+    "css_base": "public/css/base.bundle.css",
+    "js_app": "public/js/app.bundle.js",
+    "css_app": "public/css/app.bundle.css"
+  }
+}
+
